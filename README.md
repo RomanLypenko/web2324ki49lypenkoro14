@@ -35,4 +35,4 @@ JavaScript plays a crucial role both on the frontend and as a backend companion.
 HTML and CSS form the foundation of our frontend presentation. Embracing simplicity and elegance, we craft our web pages meticulously to ensure an engaging user experience.
 
 ### MySQL
-MySQL manages our data with reliability and adherence to relational integrity and ACID compliance. While newer database technologies may offer scalability, MySQL's stability and familiarity are valuable assets to our project.
+MySQL manages our data with reliability and adherence to relational integrity and ACID compliance. While newer database technologies may offer scalability, MySQL's stability and familiarity are valuable assets to our  project.
